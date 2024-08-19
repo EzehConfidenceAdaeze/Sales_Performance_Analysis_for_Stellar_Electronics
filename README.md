@@ -49,9 +49,3 @@ Stellar Electronics, a mid-sized consumer electronics retailer, has observed flu
 3.	Customer Re-engagement: Implement strategies to reconnect with customers, such as loyalty programs, personalized offers, and targeted advertising.
 4.	Customer Feedback: Analyze customer reviews to understand why some products are performing better than others. Use this feedback to adjust product features, marketing messages, and pricing.
 5.	Reinvest in Loyalty: Focus on strengthening customer loyalty programs and engaging with customers through personalized email marketing and social media. Consider partnerships with influencers or tech bloggers to increase brand visibility.
-
-
-
-
-
-<a href="Visualization/FASHION-FORWARD MALL_Report.pptx">Click Here to Download the PowerPoint Report for Full Insights and Recommendations</a>

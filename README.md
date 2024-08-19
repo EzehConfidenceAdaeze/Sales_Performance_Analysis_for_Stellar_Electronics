@@ -20,20 +20,20 @@ Stellar Electronics, a mid-sized consumer electronics retailer, has observed flu
 ## INSIGHTS:  
 
 **Relationship between Revenue and Quantity:**
-•	There is a strong positive correlation of 0.66 between total sales and the quantity of items sold. This means that as the number of items sold increases, total sales also tend to increase. Selling more items leads to higher revenue.
+*	There is a strong positive correlation of 0.66 between total sales and the quantity of items sold. This means that as the number of items sold increases, total sales also tend to increase. Selling more items leads to higher revenue.
 
 
 **Revenue and Sales Trends:**
-•	Revenue Decline: Revenue fell by 20% in 2023 compared to 2022.
-•	Order and Quantity Decline: The number of orders and quantities sold dropped by 26% in 2023. This indicates that fewer products were sold and ordered, suggesting a decrease in demand or market activity.
+*	Revenue Decline: Revenue fell by 20% in 2023 compared to 2022.
+*	Order and Quantity Decline: The number of orders and quantities sold dropped by 26% in 2023. This indicates that fewer products were sold and ordered, suggesting a decrease in demand or market activity.
 
 **Product Performance:**
-•	In 2023, Tablets and Headphones were the top-selling products.
+*	In 2023, Tablets and Headphones were the top-selling products.
 * In 2022, Headphones and Smartphones were the top-selling products.
 * The shift in top products might be linked to price changes: Smartphones became more expensive in the year 2023 while Tablets became cheaper. Despite a price increase, Headphones continued to increase in demand.
 
 **Regional Analysis:**
-•	In 2023, the South and West regions generated the highest revenue.
+*	In 2023, the South and West regions generated the highest revenue.
 *	In 2022, the North and East regions were the top performers.
 
 

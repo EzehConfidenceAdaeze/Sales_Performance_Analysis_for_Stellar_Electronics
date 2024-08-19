@@ -10,8 +10,7 @@ Stellar Electronics, a mid-sized consumer electronics retailer, has observed flu
 4.	Provide actionable insights and recommendations to help boost sales and profitability in the current year.
 
 ## DASHBOARD
-<img src="Visualization/FashionForward.png">
-<img src="Visualization/FashionForward1.png">
+<img src="PowerBI/Stellar_Dashboard.png">
 
 
 ## TECH STACK: 
